@@ -1,4 +1,4 @@
-Hi 👋 I'm sr, a tech enthusiast from Nagpur, India. I love experimenting with code and turning ideas into small, working projects.
+Hi 👋 I'm sr, a tech enthusiast. I love experimenting with code and turning ideas into small, working projects.
 
 🔧 Tech stack:  
 - Languages: Python, Java, JavaScript  
