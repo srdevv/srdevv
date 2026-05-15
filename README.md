@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi 👋 I'm sr, a tech enthusiast from Nagpur, India. I love experimenting with code and turning ideas into small, working projects.
 
-<!--
-**srdevv/srdevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Tech stack:  
+- Languages: Python, Java, JavaScript  
+- Frontend: HTML, CSS  
+- Backend: Node.js  
 
-Here are some ideas to get you started:
+🌱 I’m currently learning and exploring:
+- Building full‑stack apps (frontend + backend)
+- Solving small real‑world problems using automation and web tools
+- Contributing to open‑source and side projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 In my free time I enjoy:
+- Building prototypes of my own ideas
+- Learning new tools and frameworks
+- Sharing code and documenting my journey
+
+📫 How to reach me:  
+Discord : sr_here36
+
+✨ Fun fact: I treat every idea as a small experiment and try to ship at least a “minimum working version” quickly.
