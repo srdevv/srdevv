@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://github.com/MannuVilasara">
+  <img  src="https://raw.githubusercontent.com/MannuVilasara/MannuVilasara/f2d01ce2f26022eba3a758b7cae35779dcea97cd/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 Hi 👋 I'm sr, a tech enthusiast. I love experimenting with code and turning ideas into small, working projects.
 
 🔧 Tech stack:  
